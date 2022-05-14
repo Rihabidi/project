@@ -1,0 +1,23 @@
+
+.cart{
+
+   padding: 50px;
+  
+}
+.cartstyle{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+    box-shadow: 2px 1px 8px 0px #888888;
+    padding: 20px;
+}
+.cartstyle img{
+    width: 200px;
+}
+.crt{
+    display: flex;
+
+}
+.crt p{
+    padding-left: 90px;
+}

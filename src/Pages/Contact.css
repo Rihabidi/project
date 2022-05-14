@@ -1,0 +1,22 @@
+.mb-3{
+    
+    width: 300px;
+    
+}
+.formulaire{
+    width:400px;
+    height:500px;
+    border-radius:15px;
+     box-shadow: 2px 1px 8px 0px #888888;
+     margin-top:30px;
+     margin-bottom:30px;
+     
+}
+
+
+
+.user{
+    width: 320px;
+    height: 160px;
+   
+}
